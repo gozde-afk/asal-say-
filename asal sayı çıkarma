@@ -1,0 +1,14 @@
+
+
+<button type="button">sayı giriniz</button
+
+nedenbne = int(0)
+for nedenbne in range (0,99999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999):
+    if nedenbne % nedenbne == 0
+        print("bu bir asal sayıdır")
+    if nedenbne % nedenbne =! 0 :
+         print("bu bir asal sayı değildir")
+    if  nedenbne % 1 == 0 :
+         print ("bu bir asal sayıdır")
+    else :
+         print(nedenbne)
